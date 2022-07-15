@@ -89,6 +89,12 @@ h3{
 @media(max-width: 700px) {
   .row {
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .projects-col{
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -112,8 +118,8 @@ h3{
                                     }
                                     
                                     .logo {
-                                        width: 100px;
-                                        height: 100px;
+                                        width: 100pxx;
+                                        height: 50px;
                                     }
                                     
                                     #left-menu {
@@ -124,8 +130,8 @@ h3{
                                     }
                                     
                                     #sch-logo {
-                                        width: 120px;
-                                        height: 100px;
+                                        width: 100px;
+                                        height: 50px;
                                         padding-left: 20px;
                                     }
                                     
